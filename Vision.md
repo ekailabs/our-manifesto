@@ -1,3 +1,3 @@
 # Our Vision
 
-Increase the GDP of the intelligence economy.
+Increase the GDP of the agentic economy.
