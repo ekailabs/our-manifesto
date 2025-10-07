@@ -1,3 +1,3 @@
 # Our Vision
 
-Increase the GDP of the agentic economy.
+Accelerate the world’s transition into an economy of sovereign agents.
