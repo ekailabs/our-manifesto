@@ -7,7 +7,7 @@ Welcome to the Ekai Labs manifesto repository.
 - **[Our mission statement](./Mission.md)** 
 - **[Our vision for the future](./Vision.md)** 
 - **[Our Values](./Values.md)**  
-- [The Genesis: Cognitive Tenants](cognitive-tenants.md)
+- [The Genesis: Cognitive Tenants](blogs/cognitive-tenants.md)
 
 ## 🌍 Our Vision
 
